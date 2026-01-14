@@ -13,7 +13,7 @@ pdflatex main.tex
 ## Screenshots
 
 <p align="center">
-    <img alt="Screenshot" src="https://raw.githubusercontent.com/arasgungore/arasgungore-CV/main/jpg/CV_page.png" width="400">
+    <img alt="Screenshot" src="https://raw.githubusercontent.com/im-devendrasahu/resume/main/assets/CV_page.png" width="400">
 </p>
 
 
